@@ -4,7 +4,13 @@
     width: 400px;
     align-items: center;
     justify-content: center;
+    margin-top: 12%;
     /* display: flex; */
+}
+body{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
 }
 
 .converters{
